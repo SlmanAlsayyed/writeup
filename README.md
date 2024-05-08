@@ -32,6 +32,8 @@ this is payload<br>
 search for  'Blind SQLi' to understand how exploit it
 
 
+# H4XR(Mr.robot)
+
 
 
 
